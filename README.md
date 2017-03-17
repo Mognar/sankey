@@ -1,2 +1,0 @@
-# sankey
-Sankey diagrams practice
