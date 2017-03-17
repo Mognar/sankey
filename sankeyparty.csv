@@ -15,7 +15,7 @@ Conservative Party,Department of Energy and Climate Change,286
 Conservative Party,Department of Health,1117
 Conservative Party,Foreign and Commonwealth Office,567
 Conservative Party,Home Office,457
-Conservative Party,"Home Office; Department for Business, Innovation and Skills",1
+Conservative Party,"Department for Business, Innovation and Skills",1
 Conservative Party,House of Commons Commission,11
 Conservative Party,Leader of the House of Commons,10
 Conservative Party,Minister for Women and Equalities,28
@@ -48,7 +48,7 @@ Democratic Unionist Party,Minister for Women and Equalities,2
 Democratic Unionist Party,Ministry of Defence,118
 Democratic Unionist Party,Ministry of Justice,33
 Democratic Unionist Party,Northern Ireland Office,46
-Democratic Unionist Party,Northern Ireland Office; Home Office,1
+Democratic Unionist Party,Home Office,1
 Democratic Unionist Party,Prime Minister,3
 Democratic Unionist Party,Treasury,107
 Green Party,Attorney General,4
@@ -86,7 +86,7 @@ Labour Party,Cabinet Office,506
 Labour Party,Cabinet Office; UK Statistics Authority,91
 Labour Party,Church Commissioners,8
 Labour Party,Communities and Local Government,894
-Labour Party,Communities and Local Government; Home Office,14
+Labour Party,Home Office,14
 Labour Party,"Department for Business, Innovation and Skills",1349
 Labour Party,"Department for Culture, Media and Sport",612
 Labour Party,Department for Education,1105
@@ -97,9 +97,9 @@ Labour Party,Department for Work and Pensions,1646
 Labour Party,Department of Energy and Climate Change,647
 Labour Party,Department of Health,2340
 Labour Party,Foreign and Commonwealth Office,959
-Labour Party,Foreign and Commonwealth Office; Department for International Development,1
+Labour Party,Department for International Development,1
 Labour Party,Home Office,1225
-Labour Party,"Home Office; Department for Culture, Media and Sport",3
+Labour Party,"Department for Culture, Media and Sport",3
 Labour Party,House of Commons Commission,41
 Labour Party,Leader of the House of Commons,24
 Labour Party,Minister for Women and Equalities,52
@@ -138,8 +138,8 @@ Labour Party Cooperative Party,Prime Minister,12
 Labour Party Cooperative Party,Scotland Office,6
 Labour Party Cooperative Party,Treasury,181
 Labour Party Cooperative Party,Wales Office,3
-Labour Party Labour Party,Treasury,1
-Labour Party Social Democratic and Labour Party,"Department for Culture, Media and Sport",1
+Labour Party,Treasury,1
+Social Democratic and Labour Party,"Department for Culture, Media and Sport",1
 Liberal Democrats,Attorney General,2
 Liberal Democrats,Cabinet Office,10
 Liberal Democrats,Cabinet Office; UK Statistics Authority,6
@@ -154,7 +154,7 @@ Liberal Democrats,Department for Work and Pensions,41
 Liberal Democrats,Department of Energy and Climate Change,25
 Liberal Democrats,Department of Health,215
 Liberal Democrats,Foreign and Commonwealth Office,69
-Liberal Democrats,Foreign and Commonwealth Office; Department for International Development,1
+Liberal Democrats,Department for International Development,1
 Liberal Democrats,Home Office,149
 Liberal Democrats,Leader of the House of Commons,1
 Liberal Democrats,Minister for Women and Equalities,3
@@ -165,7 +165,7 @@ Liberal Democrats,Prime Minister,4
 Liberal Democrats,Scotland Office,1
 Liberal Democrats,Treasury,47
 Liberal Democrats,Wales Office,1
-Liberal Democrats Labour Party,Foreign and Commonwealth Office,1
+Labour Party,Foreign and Commonwealth Office,1
 Plaid Cymru,Attorney General,1
 Plaid Cymru,Cabinet Office,2
 Plaid Cymru,Communities and Local Government,2
@@ -183,8 +183,8 @@ Plaid Cymru,Ministry of Justice,4
 Plaid Cymru,Prime Minister,1
 Plaid Cymru,Treasury,13
 Plaid Cymru,Wales Office,9
-Plaid Cymru Conservative Party,"Department for Business, Innovation and Skills",1
-Plaid Cymru Conservative Party,Wales Office,1
+Conservative Party,"Department for Business, Innovation and Skills",1
+Conservative Party,Wales Office,1
 Scottish National Party,Attorney General,7
 Scottish National Party,Cabinet Office,68
 Scottish National Party,Cabinet Office; UK Statistics Authority,14
